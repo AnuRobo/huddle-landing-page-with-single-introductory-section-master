@@ -16,9 +16,9 @@ body{
     color: white;
     display: grid;
     grid-template-columns: minmax(10px,2.5em) minmax(100px,1fr) minmax(10px,2.5em);
-} 
-
+}
 .pattern .image1{
+    /* background-image: url('/huddle-landing-page-with-single-introductory-section-master/images/bg-mobile.svg'); */
     grid-column: 1/-1;
     position: absolute;
     left:0;
@@ -29,7 +29,6 @@ body{
 .pattern .image2{
     display: none;
 }
-
 
 header,
 main,
