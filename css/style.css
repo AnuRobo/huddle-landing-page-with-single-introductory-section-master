@@ -95,6 +95,7 @@ footer ul li{
         display: none;
     }
     .pattern .image2{
+        display: initial;
         position: absolute;
         left:-10%;
         top: -10%;
