@@ -17,7 +17,7 @@ body{
     display: grid;
     grid-template-columns: minmax(10px,2.5em) minmax(100px,1fr) minmax(10px,2.5em);
 }
-.pattern .image1{
+/* .pattern .image1{
     /* background-image: url('/huddle-landing-page-with-single-introductory-section-master/images/bg-mobile.svg'); */
     grid-column: 1/-1;
     position: absolute;
@@ -26,9 +26,9 @@ body{
     width: 100%;
     z-index: -1;
 }
-.pattern.image2{
+.pattern .image2{
     display: none;
-}
+} */
 
 header,
 main,
