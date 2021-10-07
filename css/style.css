@@ -64,6 +64,9 @@ body{
     width: 100%;
     z-index: -1;
 }
+.pattern .image2{
+    display: none;
+}
 
 header,
 main,
