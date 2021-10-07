@@ -21,7 +21,6 @@ body{
     /* background-image: url('/huddle-landing-page-with-single-introductory-section-master/images/bg-mobile.svg'); */
     grid-column: 1/-1;
     position: absolute;
-    content: '';
     left:0;
     top: -3%;
     width: 100%;
